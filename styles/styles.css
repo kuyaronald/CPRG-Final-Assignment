@@ -114,10 +114,6 @@ nav ul li a:hover {
   flex-basis: 100%;
 }
 
-.picplate img{
-  height: 850px;
-}
-
 .image-container:hover img {
   opacity: 0.9;
   filter: brightness(30%);
